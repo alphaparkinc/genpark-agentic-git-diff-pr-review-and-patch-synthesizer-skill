@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agentic-git-diff-pr-review-and-patch-synthesizer-skill"\nversion = "1.0.0"\ndescription = "Parses unified git diffs, detects security and performance anomalies, generates inline code reviews, and synthesizes unified patches"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
