@@ -1,0 +1,1 @@
+# genpark-agentic-git-diff-pr-review-and-patch-synthesizer-skill\n\nParses unified git diffs, detects security and performance anomalies, generates inline code reviews, and synthesizes unified patches.\n\n100% Python Standard Library implementation with zero external dependencies.
