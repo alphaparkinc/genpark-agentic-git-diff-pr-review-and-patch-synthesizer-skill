@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agentic-git-diff-pr-review-and-patch-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Parses unified git diffs, detects security and performance anomalies, generates inline code reviews, and synthesizes unified patches",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
